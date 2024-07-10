@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter, Android, Competitive Programming**
 
-- 📫 How to reach me **rifathosan445@gmail.com**
+- 📫 How to reach me **rifathasanpriyo@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
