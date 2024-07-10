@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Hasan Priyo</h1>
 <h3 align="center">A passionate frontend developer and competitive programmer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpsbHFybzBieHFreDc4dThkNWtid2k3aW9tM2Rqa2dyMHk0aDRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpsbHFybzBieHFreDc4dThkNWtid2k3aW9tM2Rqa2dyMHk0aDRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifathasanpriyo&label=Profile%20views&color=0e75b6&style=flat" alt="rifathasanpriyo" /> </p>
 
